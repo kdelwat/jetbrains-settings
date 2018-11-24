@@ -1,0 +1,10 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="10.11.0" last-modified="1537393898000" />
+    </local-interpreter>
+  </component>
+  <component name="WslNodeInterpreters">
+    <wsl-interpreter distribution="UBUNTU" path="/home/cadel/.nvm/versions/node/v9.11.1/bin/node" />
+  </component>
+</application>
