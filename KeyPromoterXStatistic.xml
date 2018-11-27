@@ -478,7 +478,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Run (Ganache) (production)'</Description>
-          <Count>164</Count>
+          <Count>167</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Run (Ganache)'">
@@ -486,7 +486,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Run (Ganache)'</Description>
-          <Count>508</Count>
+          <Count>514</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Simulate (AD)'">
@@ -654,7 +654,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Run (Ganache)'</Description>
-          <Count>57</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Simulate (AD)'">
