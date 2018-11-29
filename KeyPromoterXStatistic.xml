@@ -374,7 +374,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun '[G36] Executing atomic swap with the whole shebang'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '[G3] Adding an actor.G3B - actor tries to call API with non-existent actor ID'">
@@ -558,7 +558,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Run (Ganache) (production)'</Description>
-          <Count>189</Count>
+          <Count>190</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Run (Ganache)'">
