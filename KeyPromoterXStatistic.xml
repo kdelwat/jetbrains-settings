@@ -78,7 +78,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Run (Ganache) (production)'</Description>
-          <Count>27</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Run (Ganache)'">
@@ -121,6 +121,14 @@
           <Count>36</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Evaluate Expression...">
+        <Item>
+          <IdeaActionID>EvaluateExpression</IdeaActionID>
+          <ShortCut>'Alt+F8'</ShortCut>
+          <Description>Evaluate Expression...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Favorites">
         <Item>
           <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
@@ -142,7 +150,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>25</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -278,6 +286,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun '[G20] Creating certificate.G20A - certifier adds certificate to non-existent registry'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '[G22] Viewing data on asset'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '[G22] Viewing data on asset'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -489,6 +505,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun '[QUERY] blob.should see the decrypted data after an approved request'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '[QUERY] blob.should see the decrypted data after an approved request'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun '[VERSIONING] asset'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -518,7 +542,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>202</Count>
+          <Count>206</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -543,6 +567,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Create dummy data'</Description>
           <Count>43</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'G18'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'G18'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Generate Reason segments'">
@@ -574,7 +606,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Run (Ganache) (production)'</Description>
-          <Count>232</Count>
+          <Count>234</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Run (Ganache)'">
@@ -726,7 +758,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>121</Count>
+          <Count>133</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Create dummy data'">
@@ -750,7 +782,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Run (Ganache) (production)'</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Run (Ganache)'">
@@ -822,6 +854,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '[G43] Change class of asset'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '[G5] Adding data to asset as owner.G5'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '[G5] Adding data to asset as owner.G5'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1006,7 +1046,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>192</Count>
+          <Count>197</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
