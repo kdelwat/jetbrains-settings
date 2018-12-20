@@ -633,6 +633,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'PrivateKeyThunk.produces correct key values'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'PrivateKeyThunk.produces correct key values'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Run (Ganache) (production)'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
