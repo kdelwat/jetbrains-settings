@@ -222,7 +222,7 @@
           <IdeaActionID>FileChooser.Refresh</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Refresh</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -542,7 +542,15 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun '[MUTATION] createAsset'</Description>
-          <Count>2</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '[MUTATION] createAsset.should create a new actor'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '[MUTATION] createAsset.should create a new actor'</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '[QUERY] atomicSwap - pastEvents &amp; futureEvents.should return a list of all events that occurred to the atomic swap after a given system nonce'">
@@ -982,7 +990,15 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '[MUTATION] createAsset'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '[MUTATION] createAsset.should create a new actor'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '[MUTATION] createAsset.should create a new actor'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '[MUTATION] createAtomicSwap'">
@@ -1118,7 +1134,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>211</Count>
+          <Count>212</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
