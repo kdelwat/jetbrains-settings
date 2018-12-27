@@ -150,7 +150,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>36</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -345,6 +345,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun '[G25] Bulking assets.G25'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '[G25] Bulking assets.G25'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun '[G26] Creating atomic swap.G26'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -518,7 +526,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun '[G4] Creating an asset'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '[G4] Creating an asset.G4'">
@@ -710,7 +718,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Run (Ganache) (production)'</Description>
-          <Count>283</Count>
+          <Count>295</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Run (Ganache)'">
@@ -894,7 +902,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Run (Ganache) (production)'</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Run (Ganache)'">
