@@ -585,6 +585,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun '[G5] Adding data to asset as owner'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '[G5] Adding data to asset as owner'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun '[G5] Adding data to asset as owner.G5'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
