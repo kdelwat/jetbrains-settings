@@ -118,7 +118,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>42</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -263,6 +263,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'PrivateKeyThunk.throws an error if the actor does not exist'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Rerun Failed Tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Rerun Failed Tests'</Description>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Run (Ganache) (production)'">
@@ -527,6 +535,22 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun '[G46] Burning assets.G46'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '[G47] Creating files.G47'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '[G47] Creating files.G47'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '[G47] Creating files.G47A - certifier adds file to non-existent registry'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '[G47] Creating files.G47A - certifier adds file to non-existent registry'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '[G4] Creating an asset'">
@@ -929,6 +953,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Rerun Failed Tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Rerun Failed Tests'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Run (Ganache) (production)'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1006,6 +1038,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '[G43] Change class of asset'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '[G47] Creating files.G47B - non-certifier adds file to registry'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '[G47] Creating files.G47B - non-certifier adds file to registry'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
