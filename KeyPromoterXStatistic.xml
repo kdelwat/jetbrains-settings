@@ -30,7 +30,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -118,7 +118,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>48</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -230,7 +230,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>66</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Create dummy data'">
@@ -665,6 +665,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun '[MUTATION] addCertificateRegistryPrivate.should create a new certificate registry'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '[MUTATION] addCertificateRegistryPrivate.should create a new certificate registry'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '[MUTATION] createActorPrivate.should create a new actor'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '[MUTATION] createActorPrivate.should create a new actor'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun '[MUTATION] createAsset'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -687,6 +703,22 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun '[MUTATION] createAsset.should create a new certificate registry'</Description>
           <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '[MUTATION] createAssetPrivate'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '[MUTATION] createAssetPrivate'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '[MUTATION] createAssetPrivate.should create a new asset with provided claims'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '[MUTATION] createAssetPrivate.should create a new asset with provided claims'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '[QUERY] atomicSwap - pastEvents &amp; futureEvents.should return a list of all events that occurred to the atomic swap after a given system nonce'">
@@ -958,6 +990,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run '[MUTATION] changeClass'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '[MUTATION] createAssetPrivate.should create a new asset with no claims'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run '[MUTATION] createAssetPrivate.should create a new asset with no claims'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1241,6 +1281,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '[MUTATION] createAssetPrivate.should create a new asset with provided claims'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '[MUTATION] createAssetPrivate.should create a new asset with provided claims'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop '[MUTATION] createAtomicSwap'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1342,7 +1390,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>22</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
