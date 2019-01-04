@@ -686,7 +686,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun '[MUTATION] createAsset.should create a new certificate registry'</Description>
-          <Count>9</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '[QUERY] atomicSwap - pastEvents &amp; futureEvents.should return a list of all events that occurred to the atomic swap after a given system nonce'">
