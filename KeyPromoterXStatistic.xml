@@ -713,12 +713,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun '[MUTATION] createAssetPrivate.should create a new asset with an empty claims list'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '[MUTATION] createAssetPrivate.should create a new asset with an empty claims list'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun '[MUTATION] createAssetPrivate.should create a new asset with provided claims'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun '[MUTATION] createAssetPrivate.should create a new asset with provided claims'</Description>
-          <Count>4</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '[QUERY] atomicSwap - pastEvents &amp; futureEvents.should return a list of all events that occurred to the atomic swap after a given system nonce'">
