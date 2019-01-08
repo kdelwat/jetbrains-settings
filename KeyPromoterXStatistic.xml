@@ -769,6 +769,30 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun '[QUERY] actorPrivate - currencyBalances'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '[QUERY] actorPrivate - currencyBalances'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '[QUERY] actorPrivate - subaddresses (with evidence).should return a list of all sub-addresses used by the actor'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '[QUERY] actorPrivate - subaddresses (with evidence).should return a list of all sub-addresses used by the actor'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '[QUERY] actorPrivate - subaddresses'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '[QUERY] actorPrivate - subaddresses'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun '[QUERY] actorPrivate'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
