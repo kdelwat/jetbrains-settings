@@ -801,6 +801,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun '[QUERY] asset - roles'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '[QUERY] asset - roles'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun '[QUERY] asset'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1342,6 +1350,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '[G47] Creating files.G47B - non-certifier adds file to registry'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '[G4] Creating an asset'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '[G4] Creating an asset'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
