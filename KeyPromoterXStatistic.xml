@@ -641,6 +641,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun '[G45] 4 Pines bulking and debulking'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '[G45] 4 Pines bulking and debulking'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun '[G45] 4 Pines bulking and debulking.G45'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1001,6 +1009,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'G16_Adding-roles-on-...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'G16_Adding-roles-on-...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'G18'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1046,6 +1062,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'G2C - non-admin removes partner'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'G35B - seller executes atomic swap with…NGE permission on asset2, but not asset1'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'G35B - seller executes atomic swap with…NGE permission on asset2, but not asset1'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1423,6 +1447,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '[G11] Minting a currency'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '[G17] Revoking roles on asset'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '[G17] Revoking roles on asset'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '[G21] Attaching certificate to asset.G21'">
