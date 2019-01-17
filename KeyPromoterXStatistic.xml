@@ -761,6 +761,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun '[MUTATION] End to End Atomic Swap'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '[MUTATION] End to End Atomic Swap'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun '[MUTATION] addCertificateAsEvidence'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -814,7 +822,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun '[MUTATION] createAssetPrivate'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '[MUTATION] createAssetPrivate.should create a new asset with an empty claims list'">
@@ -1607,6 +1615,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '[MUTATION] createAsset.should create a new actor'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '[MUTATION] createAssetPrivate'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '[MUTATION] createAssetPrivate'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '[MUTATION] createAssetPrivate.should create a new asset with provided claims'">
