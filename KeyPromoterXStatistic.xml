@@ -38,7 +38,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>51</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -919,6 +919,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun '[QUERY] actorPrivate'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '[QUERY] asset - pastEvents/futureEvents.should allow querying all events in the asset history'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '[QUERY] asset - pastEvents/futureEvents.should allow querying all events in the asset history'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '[QUERY] asset - roles'">
